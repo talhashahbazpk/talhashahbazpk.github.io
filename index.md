@@ -65,8 +65,16 @@ OAuth2, JWT, Secure Coding Practices
 
 ## 💼 Experience
 
+### **Senior Backend Engineer – SiFi**  
+*Sep 2025 – Present | Riyadh*  
+- Designing and developing scalable microservices for the SiFi platform  
+- Building and optimizing .NET APIs and backend systems 
+- Enhancing security and performance of critical backend services  
+
+---
+
 ### **Senior Software Engineer – SurePay**  
-*Mar 2024 – Jul 2025 | Riyadh*  
+*Mar 2024 – Jul 2025 | Lahore & Riyadh*  
 - Government API integration for onboarding and AML  
 - Scalable .NET Core APIs & middleware  
 - 40% reduction in onboarding time  
@@ -100,6 +108,7 @@ OAuth2, JWT, Secure Coding Practices
 - Developed academic ERP (SMIS)  
 - Automated exam workflows  
 
+
 ---
 
 ## 📩 Contact
@@ -109,3 +118,4 @@ Location: Riyadh, Saudi Arabia
 ---
 
 © 2025 Talha Shahbaz
+
