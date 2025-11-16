@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-<img src="profile.jpg" alt="Talha Shahbaz" style="width:150px;border-radius:50%;margin-bottom:20px;">
+<img src="assets/profile.jpg" alt="Talha Shahbaz" style="width:150px;border-radius:50%;margin-bottom:20px;">
 
 # **Talha Shahbaz**
 ### Senior Software Engineer – .NET Core | Microservices | FinTech  
@@ -107,4 +107,5 @@ Email: [talhashahbazpk@gmail.com](mailto:talhashahbazpk@gmail.com)
 Location: Riyadh, Saudi Arabia  
 
 ---
+
 © 2025 Talha Shahbaz
