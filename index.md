@@ -9,7 +9,11 @@ title: "Home"
 ### Senior Software Engineer – .NET Core | Microservices | FinTech  
 📍 Riyadh, Saudi Arabia  
 ✉️ [talhashahbazpk@gmail.com](mailto:talhashahbazpk@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/talhashahbazpk)
+📞 +966 55 790 2575  
+<img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/db2945de-9555-4304-af32-cb1f6e0394bc" />
+ [WhatsApp](https://wa.me/966557902575)  
+<img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/34d5153e-8cb8-4057-b01c-b39bf5f21ad4" />
+ [LinkedIn](https://linkedin.com/in/talhashahbazpk)
 
 ---
 
@@ -74,7 +78,7 @@ OAuth2, JWT, Secure Coding Practices
 ---
 
 ### **Senior Software Engineer – SurePay**  
-*Mar 2024 – Jul 2025 | Lahore & Riyadh*  
+*Mar 2024 – Jul 2025 | Riyadh*  
 - Government API integration for onboarding and AML  
 - Scalable .NET Core APIs & middleware  
 - 40% reduction in onboarding time  
@@ -82,7 +86,7 @@ OAuth2, JWT, Secure Coding Practices
 ---
 
 ### **Senior Software Engineer – MYTM (LOOP Wallet)**  
-*Jul 2022 – Mar 2024 | Riyadh*  
+*Jul 2022 – Mar 2024 | Lahore & Riyadh*  
 - Developed digital wallet backend  
 - Microservices using .NET 6, EF Core  
 - Virtual card + payment API integrations  
@@ -118,4 +122,5 @@ Location: Riyadh, Saudi Arabia
 ---
 
 © 2025 Talha Shahbaz
+
 
